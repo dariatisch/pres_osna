@@ -1,7 +1,7 @@
 ---
 title: "Dynastien des Reichtums:  <br> Familiennetzwerke und Vermögenserhalt" 
-author: "Daria Tisch <br>  Max Planck Institute for the Study of Societies  <br>  <br> May 27, 2025 <br>  <br> <br>   <br> " 
-subtitle:  "MZES Speaker Series"
+author: "Daria Tisch <br>  Max Planck Institute for the Study of Societies  <br>  <br> 16.06.2025 <br>  <br> <br>   <br> " 
+subtitle:  "Gesellschaft verstehen: Methoden und Perspektiven der Sozialstrukturanalyse <br> Universität Osnabrück"
 format: 
   revealjs:
     theme: [default, custom.scss]
@@ -248,7 +248,7 @@ Population 1913: 67 million today, germany: 42 million: top 1031 fortunes --\> 4
 ## Regression results: Likelyhood to have descendants on todays's rich list
 
 ```{r,echo:false}
-source("C:/Users/ti/Local/seafile/main/---projects---/rich1913/code/03rich1913_data_analyses.R")
+source("D:/Seafile/main/---projects---/rich1913/code/03rich1913_data_analyses.R")
 ```
 
 ```{r}
