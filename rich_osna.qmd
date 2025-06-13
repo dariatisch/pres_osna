@@ -22,9 +22,9 @@ slide-number:
 bibliography: references.bib
 ---
 
-# Imagine the 1000 richest people in Germany in 1913.
+# Stellen Sie sich die 1000 reichsten Menschen in Deutschland im Jahr 1913 vor.
 
-How many of them do you think have descendants who are on the rich list today?
+Wie viele von denen, glauben Sie, haben Nachkommen, die heute auf der Liste der Reichsten 1000 Familien stehen?
 
 ## Motivation
 
@@ -34,9 +34,9 @@ How many of them do you think have descendants who are on the rich list today?
 :::
 
 ::: {.column width="50%"}
--   High levels of wealth inequality<small style="vertical-align: middle;">[@piketty2014]</small>
--   Wealth is highly concentrated in the hands of a **few families**
--   Small group with disproportionate amount of political and economic power and social influence
+-   Enorme Vermögensungleicheit <small style="vertical-align: middle;">[@piketty2014]</small>
+-   Reichtum ist in den Händen von **wenigen Familien** konzentriert.
+-   Kleine Gruppe mit unverhältnismäßig viel politischer und wirtschaftlicher Macht und sozialem Einfluss
 :::
 :::::
 
@@ -54,20 +54,20 @@ How many of them do you think have descendants who are on the rich list today?
 
 <!-- ::: -->
 
-## Research question {.smaller}
+## Forschungsfrage {.smaller}
 
 ::: {style="font-size: 120%"}
-**How do families manage to maintain their position at the top of the wealth distribution over more than a century?**
+**Wie schaffen es Familien, ihre Position an der Spitze der Vermögensverteilung über mehr als ein Jahrhundert zu halten?**
 :::
 
 ::::: columns
 ::: {.column width="60%"}
 [So what?]{style="color:#8B0000;font-size: 120%"}
 
--   Mobility within the wealt elite? "each class resembles a hotel \[...\] always full, but always of different people" <small style="vertical-align: middle;">[@schumpeter1972]</small>
--   Normative: Performance and not birth should influence wealth position
--   Social cohesion at risk <small style="vertical-align: middle;">[@toft2022]</small>
--   Social background of wealth elite matters for politics we get <small style="vertical-align: middle;">[@reeves2024]</small>
+-   Mobilität innerhalb der Vermögensselite? "each class resembles a hotel \[...\] always full, but always of different people" <small style="vertical-align: middle;">[@schumpeter1972]</small>
+-   Normativ: Leistung und nicht Geburt sollte die Vermögensposition beeinflussen
+-   Sozialer Zusammenhalt gefährdet <small style="vertical-align: middle;">[@toft2022]</small>
+-  Soziale Hintergrund der Vermögenselite beeinflusst Politik <small style="vertical-align: middle;">[@reeves2024]</small>
 :::
 
 ::: {.column width="40%"}
@@ -79,62 +79,62 @@ How many of them do you think have descendants who are on the rich list today?
 -   Larger project describing the super-rich in Germany - Article 1: Today's super-rich - Historical projects, wealth accumulated partly over several generations - New project: how families manage to maintain their position at the top of the wealth distribution over more than 100 years. I am interested in the influence of social structure and in particular how family relationships and membership of the aristocracy contribute to the preservation of wealth. - Why is it relevant to look at whether and how the wealth elite maintains its position over a century? - 1. to understand the role of the family as an economic unit. Does the family play a relevant role in the (re)production of wealth and the wealth elite? - 2. normative justification. Meritocracy: merit, not birth, determines position in wealth distribution. - 3.economic resources distributed inefficiently. no personal change within the elite--\> social closure--\> no longer understands social problems and thus jeopardises social cohesion.
 :::
 
-## Previous research {.smaller}
+## Bisherige Forschung {.smaller}
 
--   Family as a relevant economic unit <small style="vertical-align: middle;">[@farrell1993a]</small>
+-   Familie als relevante wirtschaftliche Einheit <small style="vertical-align: middle;">[@farrell1993a]</small>
 
--   Intergenerational wealth mobility low <small style="vertical-align: middle;">[@hansen2014; @clark2015; @pfeffer2018; @hällsten2023; @toft2022]</small>
+-   Vermögensmobilität zwischen den Generationen gering <small style="vertical-align: middle;">[@hansen2014; @clark2015; @pfeffer2018; @hällsten2023; @toft2022]</small>
 
-    -   Despite institutional changes: Wealth mobility constant in GB (1858-2012) <small style="vertical-align: middle;">[@clark2015] </small>
+    -   Trotz institutioneller Veränderungen: intergenerationale Vermögensmobilität in GB konstant (1858-2012) <small style="vertical-align: middle;">[@clark2015] </small>
 
-    -   Persistence in wealth, income and elite occupations in Italy <small style="vertical-align: middle;"> [@barone2020]</small>
+    -   Persistenz von Vermögen, Einkommen und Eliteberufen in Italien über Jahrhunderte <small style="vertical-align: middle;"> [@barone2020]</small>
 
-    -   Germany: About 8% of today's 1000 largest fortunes can be traced back to fortunes from the 1913 wealth lists <small style="vertical-align: middle;"> [@tisch2023]</small>
+    -   Deutschland: Etwa 8% der 1000 größten Vermögen von heute gehen auf Vermögen aus den Vermögenslisten von 1913 zurück <small style="vertical-align: middle;"> [@tisch2023]</small>
 
-    -   Zurich: About 20% of 1952' top 0.1% have ancestors within top 0.1% in 1890, yearly survival rate of 97.5% <small style="vertical-align: middle;"> [@legentilhomme2023]</small>
+    -   Zürich: Rund 20% der obersten 0,1% von 1952 haben Vorfahren innerhalb der obersten 0,1% von 1890, jährliche Überlebensrate von 97,5% <small style="vertical-align: middle;"> [@legentilhomme2023]</small>
 
-→ Research gap: Mechanisms of wealth preservation of families, e.g. family ties within the elite
+→ Forschungslücke: Mechanismen der Vermögenserhaltung von Familien, z.B. Familiennetzwerke innerhalb der Elite
 
 ::: notes
 What can we learn from previous research on wealth preservation? - Franziska Wiest: managing family feelings plays a critical role in wealth reproduction - Wealth mobility is low, especially at the upper and lower ends of the wealth distribution. - Register data (Norway) and survey data (up to three generations). - Rare surnames to estimate wealth mobility over several generations or even centuries. - Clark & Cummins look at wealth mobility in the UK and show that it has remained constant over the last 5 generations despite institutional changes. \[When he groups surnames by wealth level, there is less mobility than when he looks at individual surnames\] - Barone & Mocetti look at the city of Florence and show an enormous persistence in income, wealth and elite occupations between 1427 and 2011. But what are the socio-structural mechanisms of wealth preservation? My contribution: 1. to what extent is there social mobility within the wealth elite in Germany? 2. explain the persistence of wealth through socio-structural factors. 3. family ties within the wealth and political elite 4. by looking at the connection between the wealth elite and the political elite, I also contribute to one of the most important topics of elite literature, namely whether there was a homogeneous elite. 5. shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
 :::
 
-## Reproduction of the wealth elite {.smaller}
+## Reproduktion der Vermögenselite {.smaller}
 
--   Family as a central institution for the reproduction of social inequality <small style="vertical-align: middle;">[@beckert2022; @wiest2025; @mare2011; @obrien2023; @pfeffer2018]</small>
--   Reproduction of the wealth elite
-    -   Education <small style="vertical-align: middle;">[@lillie2020]</small>
-    -   Direct intergenerational transfers
+-   Familie als zentrale Institution für die Reproduktion sozialer Ungleichheit <small style="vertical-align: middle;">[@beckert2022; @wiest2025; @mare2011; @obrien2023; @pfeffer2018]</small>
+-   Reproduktion der Vermögenselite
+    -   Bildung <small style="vertical-align: middle;">[@lillie2020]</small>
+    -   Direkte intergenerationale Transfers
     -   "Opportunity hoarding" <small style="vertical-align: middle;">[@tilly1998]</small>
-    -   Social closure through marriage <small style="vertical-align: middle;">[@farrell1993]</small>
-    -   Economic alliance building <small style="vertical-align: middle;">[@zeitlin1974]</small>
+    -   Soziale Schließung durch Heirat <small style="vertical-align: middle;">[@farrell1993]</small>
+    -   Wirtschaftliche Bündnisse <small style="vertical-align: middle;">[@zeitlin1974]</small>
 
-![](images/Picture2.png)
+![](images/Picture1.png)
 
 ::: notes
 :::
 
-## Hypotheses
+## Hypothesen
 
-**Hypothesis 1: [Members of the economic elite are more likely to have descendants on today's rich list than non-members]{style="color:#8B0000"}**
+**Hypothese 1: [Mitglieder der Wirtschaftselite haben mit größerer Wahrscheinlichkeit Nachkommen auf der heutigen Reichenliste als Nichtmitglieder]{style="color:#8B0000"}**
 
-→ Socialisation in business families and economic alliances <small style="vertical-align: middle;">[@augustine2003]</small>
+→ Sozialisierung in Unternehmerfamilien und wirtschaftliche Allianzen <small style="vertical-align: middle;">[@augustine2003]</small>
 
-**Hypothesis 2: [The more interconnected a rich individual is with other rich individuals through familial ties, the greater the likelihood their descendants will appear on today’s rich lists]{style="color:#8B0000"}**
+**Hypothese 2: [Je mehr eine reiche Person durch familiäre Beziehungen mit anderen reichen Personen verbunden ist, desto größer ist die Wahrscheinlichkeit, dass ihre Nachkommen auf der Reichenliste von heute erscheinen]{style="color:#8B0000"}**
 
-→ Strategic family alliances to consolidate the social position <small style="vertical-align: middle;">[@augustine1994; @farrell1993; @zeitlin1974]</small>
+→ Strategische Familienbündnisse zur Festigung der sozialen Stellung <small style="vertical-align: middle;">[@augustine1994; @farrell1993; @zeitlin1974]</small>
 
-**Hypothesis 3: [Members of the political elite are more likely to have descendants on today's rich list than non-members]{style="color:#8B0000"}**
+**Hypothese 3: [Mitglieder der politischen Elite haben mit größerer Wahrscheinlichkeit Nachkommen auf der heutigen Liste als Nicht-Mitglieder]{style="color:#8B0000"}**
 
-→ Stealth politics <small style="vertical-align: middle;">[@page2018]</small>
+→ Politik im Verborgenen <small style="vertical-align: middle;">[@page2018]</small>
 
 ::: notes
 -   Hypotheses - argument: strategic alliances are necessary to maintain the position at the top of the wealth distribution. - Good family network. Just as a good network is important for an individual to accumulate wealth over the course of their life, I expect that it is also important for families to have a good family network. - "imprinting effect" of belonging to the core of the elite. - Qualitative studies such as Betty Farrell's for Boston in the 19th century point to the importance of the family network. And I would like to look at whether a good family network at the beginning of the 20th century has long-term consequences. - What is the imprinting effect? Name? - The imprinting effect is a positive correlation between the level of wealth and the chances of wealth preservation. Charles Wright Mills argues in his book "The power elite" that wealth brings with it an accumulation advantage. The more strategic the economic position and the richer a person is, the easier it is to accumulate even more wealth: "The more he has, the greater his credit"
 :::
 
-# Data and methods
+# Daten und Methoden
 
-## Data basis {.scrollable}
+## Datenbasis{.scrollable}
 
 ::::: columns
 ::: {.column width="30%"}
@@ -144,13 +144,13 @@ What can we learn from previous research on wealth preservation? - Franziska Wie
 ::: {.column width="70%"}
 -   Jahrbuch des Vermögens und Einkommens der Millionäre [@martin1912; @gajek2014]
 
--   Database of members of the Reichstag (1867 - 1938) [^1]
+-   Datenbank der Mitglieder des Reichstages (1867 - 1938) [^1]
 
 -   *List of members of the Prussian House of Lords* [^2]
 
 -   *List of members of the Prussian House of Representatives [@mann1998]*
 
--   Today's Manager Magazin lists (Bornefeld 2019)
+-   Manager Magazin Liste (Bornefeld 2019)
 
 -   Wikidata
 :::
@@ -164,20 +164,20 @@ What can we learn from previous research on wealth preservation? - Franziska Wie
 The yearbook of the wealth and income of billionaires by Rudolf Martin (Prussia) serves as my data basis. - How to get in touch with Rudolf Martin - Manager Magazin - Verknüpfung wie? - Explain Wikidata
 :::
 
-## Data and methods {.smaller}
+## Daten und Methoden {.smaller}
 
--   Data
-    -   Rudolf Martin rich list, 1913
-        -   \>2 Mio: N = 4574 richest individuals (top 0.007% of the population)
-        -   **\>3 Mio: N = 2520 richest individuals (top 0.003% of population)**
-    -   Variables:
-        -   still rich today (Manager Magazin List 2019, top 0.01%)
-        -   Politician or related to politician (members of parliament)
-        -   Part of the economic elite (Windolf und Marx)
-        -   Closeness and eigen centrality (geneological Wikidata)
--   Methods
-    -   Network analyses
-    -   Regression analyses
+-   Daten
+    -   Rudolf Martin Listen, 1913
+        -   \>2 Mio: N = 4574 reichste Personen (oberste 0,007 % der Bevölkerung)
+        -   **\>3 Mio: N = 2520 reichste Personen (oberste 0,003 % der Bevölkerung)**
+    -   Variablen:
+        - heute noch reich (Manager Magazin Liste 2019, Top 0,01%)
+        - Politiker oder verwandt mit Politikern (Abgeordnete)
+        - Teil der Wirtschaftselite (Windolf und Marx)
+        - Nähe und Eigenzentralität (geneologische Wikidata)
+-   Methoden
+    -   Netzwerkanalysen
+    -   Regressionsanalysen
 
 ::: notes
 For the network analysis, I linked the data set of the rich and the data set of the politicians with Wikidata and scraped all direct relatives. To test my hypotheses, I run logistic regressions, since my dependent variable is binary.
@@ -204,31 +204,31 @@ Population 1913: 67 million today, germany: 42 million: top 1031 fortunes --\> 4
 -   occupation of Father of father of Bill Gates
 :::
 
-# Findings
+# Ergebnisse
 
-## Social mobility within the wealth elite
+## Soziale Mobilität innerhalb der Vermögenselite
 
 <br>
 
-| Individuals 1913                | Proportion of rich descendants |
+|Personen 1913              | davon mit reichen Nachkommen |
 |---------------------------------|--------------------------------|
-| Wealth \>= 6 Mio (N = 884)      | 10%                            |
-| Wealth \>= 5.5 Mio (N = 1135)   | 9%                             |
-| **Wealth \>= 3 Mio (N = 2520)** | **6%**                         |
-| Wealth \>= 2 Mio (N = 4574)     | 5%                             |
+| Vermögen \>= 6 Mio (N = 884)      | 10%                            |
+| Vermögen \>= 5.5 Mio (N = 1135)   | 9%                             |
+| **Vermögen \>= 3 Mio (N = 2520)** | **6%**                         |
+| Vermögen \>= 2 Mio (N = 4574)     | 5%                             |
 
-## Family network analysis
+## Analyse von Familiennetzwerken
 
--   975 individuals with Wikidata ID, from 2520 (wealth\>=3 Mio) (39%)
--   411 rich individuals with at least one relative in Wikidata
--   Largest family web includes 145 rich individuals (24 times as many as a random sample of German wikidata humans born in the same cohorts)
+- 975 Personen mit Wikidata ID, von 2520 (Vermögen\>=3 Mio) (39%)
+- 411 reiche Personen mit mindestens einem Verwandten in Wikidata
+- Das größte Familiennetz umfasst 145 reiche Personen (24-mal so viele wie eine Zufallsstichprobe von deutschen Wikidata-Personen, die in denselben Jahrgängen geboren wurden)
 
-## Rich family networks
+## Reiche Familiennetzwerke
 
 ![](images/graph1.jpeg){.absolute top="50" left="0" width="100%"}
 
 ::: {style="position: absolute; top: 30%; left: 80%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 5px;"}
-(975 Wikidata, 411 relatives, 145 largest network)
+(975 Wikidata, 411 Verwandte, 145 größtes Netzwerk)
 :::
 
 ::: notes
@@ -237,15 +237,17 @@ Population 1913: 67 million today, germany: 42 million: top 1031 fortunes --\> 4
 -   Largest family web includes 145 rich individuals (24 times as many as a random sample of German wikidata humans born in the same cohorts)
 :::
 
-## Random family network
+## Zufälliges Familiennetzwerk
 
 ![](images/graph_randomC.svg){.absolute top="50" left="0" width="100%"}
 
 ::: {style="position: absolute; top: 25%; left: 80%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 5px;"}
-(N = 975 random Germans, same cohort, 5-8 in largest network)
+(N = 975 zufällig ausgewählte Deutsche, gleiche Kohorte, 5-8 im größten Netzwerk)
 :::
 
-## Regression results: Likelyhood to have descendants on todays's rich list
+## Regressionsergebnisse 
+
+Wahrscheinlichkeit, Nachkommen auf der Reichenliste von heute zu haben
 
 ```{r,echo:false}
 source("D:/Seafile/main/---projects---/rich1913/code/03rich1913_data_analyses.R")
@@ -261,19 +263,19 @@ coefplot
 
 <!-- ::: -->
 
-## Geographical analyses: Cologne
+## Geografische Analysen: Köln
 
 <iframe src="images/map_cologne.html" width="100%" height="800px">
 
 </iframe>
 
-## Geographical analyses: Hamburg
+## Geografische Analysen: Hamburg
 
 <iframe src="images/map_Hamburg.html" width="100%" height="800px">
 
 </iframe>
 
-## Geographical analyses: Berlin
+## Geografische Analysen: Berlin
 
 <iframe src="images/map_berlin.html" width="100%" height="800px">
 
@@ -289,39 +291,36 @@ coefplot
 #   addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
 ```
 
-## Regression analyses {.smaller}
+## Regressionsanalysen {.smaller}
 
 ```{r}
 region_models
 ```
 
-## Conclusion {.smaller}
+## Zusammenfassung {.smaller}
+- Soziale Mobilität innerhalb der Vermögenselite
 
--   Social mobility within the wealth elite
+    - 10 % der 875 reichsten Menschen des Jahres 1913 haben Nachkommen auf der Reichenliste 2019
 
-    -   10 % of the 875 richest people in 1913 have descendants on the rich list 2019
+    - Das "Hotel" hat einige Stammgäste
+- Mechanismen zur Erhaltung des Spitzenvermögens im 20. Jahrhundert
 
-    -   „Hotel“ has some regular guests
+    - Verbindungen zur Wirtschaftselite
 
--   Mechanisms of maintaining top wealth in the 20th century
+    - Familiennetzwerke der Superreichen
 
-    -   Connections to the business elite
+    - Politische Aktivität irrelevant?
 
-    -   Family networks of the super-rich
+    - Reiche Nachbarschaften?
+- Nächste Schritte
 
-    -   Being Politican irrelevant?
-
-    -   Maybe rich neighbourhoods
-
--   Next steps
-
-    -   Regional political offices
-    -   Role of geographical connections: the good address
+    - Regionale politische Ämter
+    - Die Rolle der geografischen Verbindungen: die gute Adresse
 
 \
 
 ::: {style="font-size: 120%; text-align: center"}
-Contact: tisch\@mpifg.de
+Kontakt: tisch\@mpifg.de
 
 dariatisch.github.io
 :::
@@ -354,19 +353,19 @@ dariatisch.github.io
 
 # Appendix
 
-## Regression analyses
+## Regressionsanalysen
 
 ```{r}
 all_models
 ```
 
-## Descriptive statistics
+## Deskriptive Statistik
 
 ```{r}
 descriptives
 ```
 
-## References
+## Literatur
 
 ::: {#refs}
 :::
